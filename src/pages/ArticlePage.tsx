@@ -1,7 +1,8 @@
+import { useState } from "react"
 import { useParams, Link } from "react-router-dom"
 import { Helmet } from "react-helmet-async"
-import { motion } from "framer-motion"
-import { ArrowLeft, Clock, Calendar, MapPin, ExternalLink } from "lucide-react"
+import { motion, AnimatePresence } from "framer-motion"
+import { ArrowLeft, Clock, Calendar, MapPin, ExternalLink, X, Route, Mountain, Clock3, TrendingUp } from "lucide-react"
 import { Header } from "../components/layout/Header"
 import { Footer } from "../components/layout/Footer"
 import { getArticleBySlug } from "../data/articles"
@@ -10,6 +11,7 @@ import { formatDate } from "../lib/utils"
 export function ArticlePage() {
   const { slug } = useParams<{ slug: string }>()
   const article = slug ? getArticleBySlug(slug) : undefined
+  const [selectedImage, setSelectedImage] = useState<string | null>(null)
 
   if (!article) {
     return (
@@ -26,6 +28,48 @@ export function ArticlePage() {
         <Footer />
       </>
     )
+  }
+
+  const renderContent = (content: string) => {
+    const sections = content.split("## ")
+    return sections.map((section, index) => {
+      if (index === 0) return null
+      
+      const [title, ...bodyParts] = section.split("\n")
+      const body = bodyParts.join("\n")
+      
+      const paragraphs = body.split("\n\n").filter(p => p.trim())
+      
+      return (
+        <section key={index} className="mb-10">
+          <h2 className="font-heading text-2xl text-charcoal mb-4 pb-2 border-b border-fog">{title}</h2>
+          <div className="space-y-4">
+            {paragraphs.map((para, pIndex) => {
+              if (para.startsWith("### ")) {
+                return (
+                  <h3 key={pIndex} className="font-heading text-xl text-charcoal mt-6 mb-3">
+                    {para.replace("### ", "")}
+                  </h3>
+                )
+              }
+              if (para.startsWith("- ")) {
+                const items = para.split("\n").filter(p => p.startsWith("- "))
+                return (
+                  <ul key={pIndex} className="list-disc list-inside space-y-2 text-charcoal/80 ml-4">
+                    {items.map((item, i) => (
+                      <li key={i}>{item.replace("- ", "")}</li>
+                    ))}
+                  </ul>
+                )
+              }
+              return (
+                <p key={pIndex} className="text-charcoal/80 leading-relaxed">{para}</p>
+              )
+            })}
+          </div>
+        </section>
+      )
+    })
   }
 
   return (
@@ -106,14 +150,83 @@ export function ArticlePage() {
             transition={{ duration: 0.6, delay: 0.2 }}
             className="container-custom py-16 md:py-24"
           >
+            {article.trail && (
+              <motion.div
+                initial={{ opacity: 0, y: 20 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ duration: 0.5, delay: 0.3 }}
+                className="max-w-3xl mx-auto mb-12 p-6 bg-fog rounded-none border-l-4 border-moss"
+              >
+                <h3 className="font-heading text-lg text-charcoal mb-4 flex items-center gap-2">
+                  <Route className="w-5 h-5 text-moss" />
+                  Informații Traseu
+                </h3>
+                <p className="font-medium text-charcoal mb-4">{article.trail.name}</p>
+                <div className="grid grid-cols-2 md:grid-cols-4 gap-4 text-sm">
+                  <div className="flex items-center gap-2">
+                    <Mountain className="w-4 h-4 text-stone-light" />
+                    <span className="text-charcoal">{article.trail.distance}</span>
+                  </div>
+                  <div className="flex items-center gap-2">
+                    <TrendingUp className="w-4 h-4 text-stone-light" />
+                    <span className="text-charcoal">{article.trail.elevation}</span>
+                  </div>
+                  <div className="flex items-center gap-2">
+                    <Clock3 className="w-4 h-4 text-stone-light" />
+                    <span className="text-charcoal">{article.trail.duration}</span>
+                  </div>
+                  <div className="flex items-center gap-2">
+                    <span className="px-2 py-0.5 bg-rust/10 text-rust text-xs">{article.trail.difficulty}</span>
+                  </div>
+                </div>
+                {article.trail.marks && article.trail.marks.length > 0 && (
+                  <div className="mt-4 pt-4 border-t border-stone-light/20">
+                    <p className="text-xs text-stone-light mb-2">Marcaje:</p>
+                    <div className="flex flex-wrap gap-2">
+                      {article.trail.marks.map((mark, i) => (
+                        <span key={i} className="text-xs px-2 py-1 bg-charcoal text-white">{mark}</span>
+                      ))}
+                    </div>
+                  </div>
+                )}
+              </motion.div>
+            )}
+
             <div className="max-w-3xl mx-auto">
               <div className="prose prose-lg prose-stone">
-                {article.content?.split("\n\n").map((paragraph, index) => (
-                  <p key={index} className="mb-6 text-charcoal leading-relaxed">
-                    {paragraph}
-                  </p>
-                ))}
+                {renderContent(article.content || "")}
               </div>
+
+              {article.gallery && article.gallery.length > 0 && (
+                <motion.div
+                  initial={{ opacity: 0, y: 20 }}
+                  whileInView={{ opacity: 1, y: 0 }}
+                  viewport={{ once: true }}
+                  className="mt-16"
+                >
+                  <h3 className="font-heading text-2xl text-charcoal mb-8 text-center">Galerie Foto</h3>
+                  <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
+                    {article.gallery.slice(0, 12).map((img, index) => (
+                      <motion.div
+                        key={index}
+                        initial={{ opacity: 0, scale: 0.9 }}
+                        whileInView={{ opacity: 1, scale: 1 }}
+                        viewport={{ once: true }}
+                        transition={{ duration: 0.3, delay: index * 0.05 }}
+                        className="aspect-square overflow-hidden cursor-pointer"
+                        onClick={() => setSelectedImage(img)}
+                      >
+                        <img
+                          src={img}
+                          alt={`Galerie imagine ${index + 1}`}
+                          className="w-full h-full object-cover hover:scale-110 transition-transform duration-500"
+                          loading="lazy"
+                        />
+                      </motion.div>
+                    ))}
+                  </div>
+                </motion.div>
+              )}
 
               <div className="mt-12 pt-8 border-t border-stone-light/20">
                 <a
@@ -131,6 +244,40 @@ export function ArticlePage() {
         </main>
 
         <Footer />
+
+        <AnimatePresence>
+          {selectedImage && (
+            <motion.div
+              initial={{ opacity: 0 }}
+              animate={{ opacity: 1 }}
+              exit={{ opacity: 0 }}
+              className="fixed inset-0 z-50 bg-charcoal/95 flex items-center justify-center p-4"
+              onClick={() => setSelectedImage(null)}
+            >
+              <button
+                className="absolute top-4 right-4 text-white/60 hover:text-white p-2"
+                onClick={() => setSelectedImage(null)}
+                aria-label="Close gallery"
+              >
+                <X className="w-8 h-8" />
+              </button>
+
+              <motion.div
+                initial={{ scale: 0.9, opacity: 0 }}
+                animate={{ scale: 1, opacity: 1 }}
+                exit={{ scale: 0.9, opacity: 0 }}
+                className="max-w-5xl w-full"
+                onClick={(e) => e.stopPropagation()}
+              >
+                <img
+                  src={selectedImage}
+                  alt="Galerie"
+                  className="w-full h-auto max-h-[80vh] object-contain"
+                />
+              </motion.div>
+            </motion.div>
+          )}
+        </AnimatePresence>
       </div>
     </>
   )
