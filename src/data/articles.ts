@@ -28,17 +28,17 @@ export const articles: Article[] = [
     title: "Prin zăpezile de mai spre Vârful Custura Bucurei",
     summary: "O drumeție de final de primăvară în Munții Retezat, urcând spre Vârful Bucura prin Curmătura Bucurei, printre peisaje spectaculoase și amintiri ale Cabanei Gențiana",
     content: `
-Memento – Cabana Gențiana
+## Memento – Cabana Gențiana
 
 Un articol a cărui redactare s-a suprapus, din păcate, peste una dintre cele mai triste zile pentru iubitorii Munților Retezat: Cabana Gențiana nu mai este, a fost mistuită de flăcări în noaptea de 8 spre 9 mai. La finalul articolului i-am dedicat câteva gânduri și câteva fotografii adunate de-a lungul anilor, mici fragmente de memorie din locul care a însemnat atât de mult pentru generații de oameni ai muntelui.
 
-Retezatul la final de primăvară
+## Retezatul la final de primăvară
 
 În luna mai, Retezatul se află în plină tranziție: de la iarna cu nopți lungi și geroase, când mantia albă a zăpezii cobora până la poalele masivului, spre perioada în care zilele se lungesc vizibil, iar limita inferioară a zăpezii urcă tot mai sus, retrăgându-se treptat și rămânând, peste vară, doar în ungherele cele mai adăpostite ale circurilor glaciare.
 
 Luna mai este poate cea mai spectaculoasă pentru contrastele ei: iarnă și primăvară coexistă în același peisaj, de la câmpurile galbene de rapiță de la poalele masivului până la crestele alpine încă acoperite de zăpadă.
 
-Vârful Bucura (2433 m)
+## Vârful Bucura (2433 m)
 
 Vârful Bucura (2433 m) se află pe creasta principală a Retezatului, într-o poziție privilegiată, dominând trei mari complexe glaciare.
 
@@ -50,7 +50,7 @@ Spre sud-est se află Complexul Bucura, recunoscut pentru salba sa de lacuri gla
 
 Vârful Bucura reprezintă, de asemenea, un punct de legătură între trei vârfuri emblematice: Retezat la nord-vest, Judele la sud-vest și Peleaga la vest.
 
-Despre siguranța traseului ales
+## Despre siguranța traseului ales
 
 În condiții de risc de avalanșă, decizia de a urca pe munte este crucială. Cea mai sigură opțiune rămâne amânarea turei până la stabilizarea zăpezii; alternativ, se poate alege un traseu care minimizează expunerea - pe culmi, muchii sau pante moderate, evitând văile și culoarele de avalanșă.
 
@@ -58,47 +58,47 @@ Traseul prezentat în acest articol nu reprezintă o invitație de a parcurge zo
 
 Este bine cunoscut faptul că accesul pe creasta principală a Retezatului, în condiții de iarnă, nu este recomandat prin Curmătura Bucurei; varianta mai sigură de urcare rămâne prin Șaua Custura Bucurei.
 
-Echipamentul necesar în astfel de ture
+## Echipamentul necesar în astfel de ture
 
-bocanci impermeabili și îmbrăcăminte tehnică în straturi: haine termice, respirabile și rezistente la vânt și umezeală
-colțari (sau colțari ușori de tură), utili pe pantele înghețate
-piolet și bețe de trekking, pentru stabilitate pe terenul înzăpezit
-parazăpezi, care împiedică pătrunderea zăpezii în bocanci
-ochelari de soare și cremă cu protecție UV, esențiale în zilele cu reflexii puternice din zăpadă
-hartă sau GPS cu traseul descărcat, pentru orientare
-cagulă, mănuși călduroase și un termos cu băutură caldă, binevenite în condițiile de altitudine și vânt
+- bocanci impermeabili și îmbrăcăminte tehnică în straturi: haine termice, respirabile și rezistente la vânt și umezeală
+- colțari (sau colțari ușori de tură), utili pe pantele înghețate
+- piolet și bețe de trekking, pentru stabilitate pe terenul înzăpezit
+- parazăpezi, care împiedică pătrunderea zăpezii în bocanci
+- ochelari de soare și cremă cu protecție UV, esențiale în zilele cu reflexii puternice din zăpadă
+- hartă sau GPS cu traseul descărcat, pentru orientare
+- cagulă, mănuși călduroase și un termos cu băutură caldă, binevenite în condițiile de altitudine și vânt
 
-Poiana Cârnic – Cabana Gențiana – Curmătura Bucurei – Vârful Bucura
+## Poiana Cârnic – Cabana Gențiana – Curmătura Bucurei – Vârful Bucura
 
-Caseta tehnică
+### Caseta tehnică
 
-Distanța: 19 km
-Diferența de altitudine: 1480 m
-Timp: 9-11 ore pentru dus-întors
-Marcaje: Bandă Albastră, Triunghi Albastru, Bandă Roșie
-Punct de rehidratare: Cabana Gențiana
+- Distanța: 19 km
+- Diferența de altitudine: 1480 m
+- Timp: 9-11 ore pentru dus-întors
+- Marcaje: Bandă Albastră, Triunghi Albastru, Bandă Roșie
+- Punct de rehidratare: Cabana Gențiana
 
-Descrierea traseului
+### Descrierea traseului
 
-Poiana Cârnic – Curba Soacrei, 1 oră
+#### Poiana Cârnic – Curba Soacrei, 1 oră
 
 Traseul pornește din parcarea de la Poiana Cârnic, situată la altitudinea de cca 1040 m. Se urmează marcajul Bandă Albastră de pe pietrosul drum forestier care merge spre Cabana Pietrele. După cca 3,3 km se ajunge la bifurcația cu marcajul Triunghi Albastru, cel care duce spre Cabana Gențiana, loc cunoscut sub denumirea de „Curba Soacrei".
 
-Curba Soacrei - Cabana Gențiana, 1 oră
+#### Curba Soacrei - Cabana Gențiana, 1 oră
 
 Se traversează spre stânga puntea peste repezișurile și bulboanele cristaline ale pârâului Stânișoara, iar după aproximativ 200 m se intersectează marcajul Triunghi Roșu (Cabana Pietrele – Lacul Galeș – Vârful Mare). După circa 25 de minute se ajunge la Cascada Maria Magdalena, aflată la aproximativ 4 km de la Poiana Cârnic (1,2 km de Cabana Gențiana).
 
 Traseul continuă pe potecă, iar după aproximativ 300 m se ajunge la intersecția cu poteca marcată cu Triunghi Galben. Aici se află un indicator turistic care arată direcția și timpul estimat până în Șaua Pelegii (2½–3 ore). Se urmează în continuare marcajul Triunghi Albastru, iar după câteva minute se reîntâlnește marcajul Bandă Albastră, împreună cu un indicator care anunță că mai sunt aproximativ 30 de minute până la Cabana Gențiana.
 
-Cabana Gențiana – Lacul Pietrele, 1 oră
+#### Cabana Gențiana – Lacul Pietrele, 1 oră
 
 De la Cabana Gențiana vom urma în amonte marcajul Bandă Albastră, trecând puntea peste Valea Pietrele, pe la Bordul Tomii și în final vom face un scurt popas la Lacul Pietrele.
 
-Lacul Pietrele – Șaua Curmătura Bucurei, 1 oră
+#### Lacul Pietrele – Șaua Curmătura Bucurei, 1 oră
 
 Se continuă pe poteca ce ocolește lacul pe partea estică, și urmând direcția generală spre sud, fie luând ca reper stâlpii turistici, fie având ca reper general punctul prin care se dorește urcarea în creastă, în funcție de condițiile stratului de zăpadă și a existenței cornișelor. La baza pantei care conduce spre șa este recomandată montarea colțarilor.
 
-Șaua Curmătura Bucurei – Vârful Bucura, 1¼h
+#### Șaua Curmătura Bucurei – Vârful Bucura, 1¼h
 
 Din Curmătura Bucurei, traseul își schimbă direcția spre vest, urmând îndeaproape muchia, dar evitând cornișele formate deasupra abrupturilor nordice. Din dreptul Vârfului Bucura II, direcția se orientează ușor spre sud-vest, până la atingerea cotei maxime a turei, de 2433 m, pe Vârful Bucura.
 
@@ -106,7 +106,7 @@ Vârful Bucura oferă un excelent punct de belvedere în toate direcțiile. Se d
 
 Întoarcerea se face pe același traseu sau, opțional, în funcție de experiența participanților și de buna cunoaștere a masivului, pe o altă rută.
 
-Cabana Gențiana
+## Cabana Gențiana
 
 Oare unde se duc cabanele după ce ard? Unde or fi acum vechile cabane de la Mălăiești, Omu, Ciucaș, Bâlea, Suru, Pietrele, Buta sau Gențiana? Ne place să credem că nu dispar cu adevărat, ci se retrag undeva dincolo de crestele văzute, într-un ținut tainic al munților, acolo unde ajung și oamenii care le-au iubit cândva și care au urcat spre ele ani la rând. Poate că există un loc al cabanelor pierdute, unde sobele ard din nou liniștit, ferestrele luminează în noapte, ghidând pașii turiștilor obosiți, iar mesele sunt pline de glasurile celor care au iubit muntele.
 
@@ -114,7 +114,7 @@ Cabana Gențiana, situată la circa 1670 m altitudine pe Valea Pietrele din Rete
 
 În mai 2026, Cabana Gențiana a fost distrusă complet de un incendiu, dispariția ei provocând un puternic impact emoțional în rândul iubitorilor muntelui și fiind percepută ca pierderea unuia dintre simbolurile Retezatului.
 
-Retezatul – Muntele-școală
+## Retezatul – Muntele-școală
 
 Munții Retezat sunt un adevărat munte-școală, poate mai mult decât oricare alt masiv din țară, spunând povestea ghețarilor de odinioară. Potecile lor păstrează amintirea pașilor unor mari geografi, precum Emmanuel de Martonne, cel care a descifrat aici vechile „rune" ale acestei istorii glaciare: morenele, blocurile eratice, berbecii glaciari și striurile săpate în stâncă de ghețarii dispăruți.`,
     image: "https://muntii-nostri.ro/media/articles/DSC_3897.JPG",
