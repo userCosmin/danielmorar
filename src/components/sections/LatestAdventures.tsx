@@ -3,7 +3,7 @@ import { getLatestArticles } from "../../data/articles"
 import { ArticleCard } from "../cards/ArticleCard"
 
 export function LatestAdventures() {
-  const articles = getLatestArticles(3)
+  const articles = getLatestArticles(6)
 
   return (
     <section id="latest" className="section-padding bg-cream">

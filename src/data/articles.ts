@@ -466,7 +466,8 @@ Se reface în sens invers traseul descris la urcare.`,
       difficulty: "Mediu-Dificil",
       marks: ["Bandă Albastră", "Triunghi Albastru", "Bandă Roșie"]
     },
-    gallery: [
+gallery: [
+      "https://muntii-nostri.ro/media/articles/2144/dsc_8815.jpg",
       "https://muntii-nostri.ro/media/articles/2144/dsc_8862_0.jpg",
       "https://muntii-nostri.ro/media/articles/2144/dsc_9304_0.jpg",
       "https://muntii-nostri.ro/media/articles/2144/dsc_1997.jpg",
@@ -475,59 +476,310 @@ Se reface în sens invers traseul descris la urcare.`,
       "https://muntii-nostri.ro/media/articles/2144/dsc_1503_1.jpg",
       "https://muntii-nostri.ro/media/articles/2144/dsc_1995_0.jpg",
       "https://muntii-nostri.ro/media/articles/2144/img_20220312_181411.jpg",
-      "https://muntii-nostri.ro/media/articles/2144/dsc_1982.jpg",
-      "https://muntii-nostri.ro/media/articles/2144/dsc_2026.jpg",
-      "https://muntii-nostri.ro/media/articles/2144/dsc_9070.jpg",
-      "https://muntii-nostri.ro/media/articles/2144/dsc_8786.jpg",
-      "https://muntii-nostri.ro/media/articles/2144/dsc_9162.jpg",
-      "https://muntii-nostri.ro/media/articles/2144/dsc_9167.jpg",
-      "https://muntii-nostri.ro/media/articles/2144/dsc_8769.jpg",
-      "https://muntii-nostri.ro/media/articles/2144/dsc_8781_1.jpg",
-      "https://muntii-nostri.ro/media/articles/2144/dsc_8778_0.jpg",
-      "https://muntii-nostri.ro/media/articles/2144/dsc_9142.jpg",
-      "https://muntii-nostri.ro/media/articles/2144/dsc_9146.jpg",
-      "https://muntii-nostri.ro/media/articles/2144/dsc_9149.jpg",
-      "https://muntii-nostri.ro/media/articles/2144/dsc_9152.jpg",
-      "https://muntii-nostri.ro/media/articles/2144/dsc_9160_1.jpg",
-      "https://muntii-nostri.ro/media/articles/2144/dsc_9165.jpg",
-      "https://muntii-nostri.ro/media/articles/2144/dsc_8790_1.jpg",
-      "https://muntii-nostri.ro/media/articles/2144/dsc_9183.jpg",
-      "https://muntii-nostri.ro/media/articles/2144/dsc_8792.jpg",
-      "https://muntii-nostri.ro/media/articles/2144/dsc_8799_1.jpg",
-      "https://muntii-nostri.ro/media/articles/2144/dsc_9201.jpg",
-      "https://muntii-nostri.ro/media/articles/2144/dsc_8823.jpg",
-      "https://muntii-nostri.ro/media/articles/2144/dsc_8835_2.jpg",
-      "https://muntii-nostri.ro/media/articles/2144/dsc_8874_2.jpg",
-      "https://muntii-nostri.ro/media/articles/2144/dsc_8876_1.jpg",
-      "https://muntii-nostri.ro/media/articles/2144/dsc_8943_0.jpg",
-      "https://muntii-nostri.ro/media/articles/2144/dsc_8923_0.jpg",
-      "https://muntii-nostri.ro/media/articles/2144/dsc_8958.jpg",
-      "https://muntii-nostri.ro/media/articles/2144/dsc_8967.jpg",
-      "https://muntii-nostri.ro/media/articles/2144/dsc_8971.jpg",
-      "https://muntii-nostri.ro/media/articles/2144/dsc_8976.jpg",
-      "https://muntii-nostri.ro/media/articles/2144/dsc_8989.jpg",
-      "https://muntii-nostri.ro/media/articles/2144/dsc_8995-3.jpg",
-      "https://muntii-nostri.ro/media/articles/2144/dsc_8998.jpg",
-      "https://muntii-nostri.ro/media/articles/2144/dsc_9017.jpg",
-      "https://muntii-nostri.ro/media/articles/2144/dsc_9020_0.jpg",
-      "https://muntii-nostri.ro/media/articles/2144/dsc_9021.jpg",
-      "https://muntii-nostri.ro/media/articles/2144/dsc_9024.jpg",
-      "https://muntii-nostri.ro/media/articles/2144/dsc_9025.jpg",
-      "https://muntii-nostri.ro/media/articles/2144/dsc_9031.jpg",
-      "https://muntii-nostri.ro/media/articles/2144/dsc_9036.jpg",
-      "https://muntii-nostri.ro/media/articles/2144/dsc_9049_1.jpg",
-      "https://muntii-nostri.ro/media/articles/2144/dsc_9048_0.jpg",
-      "https://muntii-nostri.ro/media/articles/2144/dsc_9054_1.jpg",
-      "https://muntii-nostri.ro/media/articles/2144/dsc_9065.jpg",
-      "https://muntii-nostri.ro/media/articles/2144/dsc_9068.jpg",
-      "https://muntii-nostri.ro/media/articles/2144/dsc_9096.jpg",
-      "https://muntii-nostri.ro/media/articles/2144/dsc_9112.jpg",
-      "https://muntii-nostri.ro/media/articles/2144/dsc_9114.jpg",
-      "https://muntii-nostri.ro/media/articles/2144/dsc_9301.jpg",
-      "https://muntii-nostri.ro/media/articles/2144/dsc_9129.jpg",
-      "https://muntii-nostri.ro/media/articles/2144/dsc_9138.jpg"
+      "https://muntii-nostri.ro/media/articles/2144/dsc_1982.jpg"
     ]
-  }
+  },
+  {
+    id: "5",
+    slug: "circuit-de-februarie-in-piatra-secuiului",
+    title: "Circuit de februarie în Piatra Secuiului",
+    summary: "Drumeție epică pe Piatra Secuiului - abrupturi spectaculoase, priveliști uimitoare și forme naturale monumentale",
+    content: `
+Cadru geografic general - Depresiunea Trascăului
+
+Depresiunea Trascăului reprezintă nucleul munților cu același nume, concentrând cele mai spectaculoase formațiuni ale regiunii. Aici se ridică Piatra Secuiului, cea mai impunătoare „piatră" a zonei, alături de Colții Trascăului, separate de Șanțul Mare și formând bariera naturală estică a depresiunii.
+
+La vest, culmea calcaroasă Ardașcheia oferă un peisaj sălbatic, modelat de ape care au sculptat chei spectaculoase, precum Cheile Bedeleului, Cheile Plaiului și Cheile Siloșului. În sud, râul Vălișoara a creat impresionantele Cheile Vălișoarei (Cheile Aiudului). Orizontul este dominat de înălțimi precum Colțul Bogza, Colțul Vilii, Colțul Cetății și masivul Bedeleu.
+
+În centrul depresiunii se află satele pitorești Vălișoara, Izvoarele, Colțești și Rimetea, unde atmosfera tradițională se păstrează vie. Deasupra satului Colțești veghează ruinele Cetatea Trascăului (Cetatea Colțești), martor al istoriei locale.
+
+Zona este cunoscută și pentru traseele de cățărare amenajate pe pereții abrupți ai masivului, inclusiv pe Muchia Juniorului, una dintre crestele apreciate de alpiniști.
+
+Între punctele de interes se remarcă Grota Studenților (Portalul Kőluk), iar atmosfera zonei este completată de agroterasele tradiționale și de repere istorice precum „Castelul Templul Cavalerilor" și Conacul Secuiesc. Depresiunea Trascăului rămâne astfel o combinație armonioasă între relief spectaculos, natură și patrimoniu cultural.
+
+Piatra Secuiului
+
+Piatra Secuiului se înalță impunător ca un masiv calcaros de aproximativ 2,8 km lungime, delimitat la sud de Valea Guștreagului și la nord de Șanțul Mare, dincolo de care își continuă silueta stâncoasă prin Colții Trascăului, un masiv mai redus ca dimensiune. Vârful său atinge altitudinea maximă de 1129 m, dominând Depresiunea Trascăului cu o diferență de nivel de 500-550 m, pe o distanță de doar 1,5 km.
+
+În partea superioară, masivul ascunde un platou calcaros tipic, modelat de doline și văi de doline, alături de lapiezuri înierbate. Acest platou, având o lungime de aproximativ 1,5 km și o lățime maximă de 350 m, este mărginit de pereți abrupți pe toate laturile. Versantul vestic se remarcă printr-un abrupt spectaculos, ce depășește pe alocuri 150 m în înălțime, oferind priveliști impresionante asupra Depresiunii Trascăului, cu satele sale, și a peisajului montan din jur.
+
+Traseu: Colțești – Piatra Secuiului – Șanțul Mare – Grota Studenților – Colțești
+
+Caseta tehnică
+
+- Distanță: 10,4 km
+- Diferență de nivel pozitivă: aproximativ 940 m
+- Durată estimată: 4–6 ore
+- Marcaje: Cruce Albastră, Triunghi Roșu
+
+Traseul propus este un circuit montan de mică altitudine, caracterizat prin alternanța dintre sectoare de abrupt și platou calcaros. Parcurgerea sa oferă panorame ample asupra Depresiunii Trascăului și a masivelor calcaroase din jur, precum și acces la formațiuni carstice reprezentative, între care se remarcă Grota Studenților.
+
+Specificul traseului
+
+Urcarea presupune un efort susținut, în special în condiții de teren umed, zăpadă sau gheață. Coborârea se desfășoară printr-o vale abruptă, cu praguri stâncoase ce pot deveni alunecoase pe timp de iarnă, completată de porțiuni de creastă și platou expuse vântului.
+
+În sezonul rece, este recomandată o echipare adecvată: bocanci cu aderență bună, eventual colțari, bețe de trekking, cască de protecție și îmbrăcăminte rezistentă la vânt și temperaturi scăzute. Totodată, verificarea atentă a prognozei meteo și a condițiilor din teren înainte de plecare este esențială pentru siguranță.
+
+Descrierea traseului
+
+Colțești – Șaua sudică Piatra Secuiului
+
+Traseul pornește din apropiere de Conacul Secuiesc, un restaurant cunoscut din Colțești, amplasat pe o stradă secundară în partea de est a satului, cu priveliști spectaculoase către Piatra Secuiului. Autoturismul poate fi parcat în zona restaurantului sau pe străduțele din apropiere.
+
+Din parcarea restaurantului se traversează un pod peste Pariâul Muntelui, apoi se continuă paralel cu cursul apei, traversând câmpurile aflate la poalele masivului. După atingerea primelor agroterase de la baza stâncii, cele două marcaje urmărite până în acel punct - Cruce Albastră și Triunghi Roșu - se despart. Se continuă pe marcajul Cruce Albastră, orientat către coada sudică a Pietrei Secuiului.
+
+Din acest sector, urcușul devine progresiv mai abrupt, cu o diferență de nivel de peste 350 m, conducând către o șa situată între platoul principal al masivului și un turn stâncos sudic al masivului. Porțiunea finală presupune efort susținut, dar oferă perspective panoramice tot mai ample asupra depresiunii și a reliefului carstic din jur.
+
+Șaua sudică Piatra Secuiului - Vârful Piatra Secuiului
+
+Din șa, direcția traseului se schimbă spre nord, urmând linia platoului calcaros. Urcușul este inițial susținut, apoi devine treptat mai domol pe măsură ce se avansează pe suprafața superioară a masivului.
+
+În treimea sudică a platoului, poteca traversează un șanț trasat artificial, care secționează transversal masivul de la un abrupt la celălalt. Traseul continuă ulterior pe marginea unor doline caracteristice reliefului carstic - forme de depresiune rezultate prin dizolvarea și tasarea calcarelor - ce punctează suprafața platoului.
+
+Aproape de capătul nordic al platoului se află punctul cel mai înalt al acestuia, la cota de 1129 m, marcat prin două borne de piatră care indică vârful platoului și constituie un reper topografic vizibil în teren.
+
+Vârful Piatra Secuiului – Șanțul Mare – Intersecție trasee (nord)
+
+De pe vârf, poteca coboară spre nord-est până într-o șa marcată cu o troiță. Din acest punct începe cea mai abruptă porțiune a traseului: coborârea prin Șanțul Mare (Râpa Mare), un sector cu pantă accentuată și săritori stâncoase care necesită atenție sporită, mai ales în condiții de iarnă, pe gheață sau zăpadă, ori atunci când umiditatea ridicată face terenul alunecos.
+
+După ce porțiunea abruptă se domolește, la baza Șanțului Mare, pe agroterasele aflate la poalele masivului, se părăsește marcajul Cruce Albastră, care continuă spre satul Rimetea, vizibil în mod spectaculos din această zonă.
+
+Intersecție trasee (nord) – Grota Studenților - Colțești
+
+Traseul urmează în continuare spre sud poteca marcată cu Triunghi Roșu, pe la baza Pietrei Secuiului, către Grota Studenților.
+
+Sectorul de legătură oferă perspective apropiate asupra versanților calcaroși și a reliefului carstic dezvoltat la contactul dintre abrupt și zona agricolă. Poteca urmează inițial curba de nivel, apoi urcă accentuat către Grota Studenților, traversează formațiunea și coboară din nou prin aceasta, pe un sector abrupt, în direcția Colțești.
+
+După ce panta se domolește, se ajunge la capătul circuitului, unde cele două marcaje se reunesc și conduc înapoi spre punctul de pornire, în zona Conacului Secuiesc din Colțești. Circuitul se încheie astfel printr-o explorare completă a acestui masiv spectaculos și prin revenirea la baza sa, în punctul de pornire.
+
+Grota Studenților
+
+Grota Studenților (cunoscută și sub denumirea de Portalul Kőluk) este situată pe versantul vestic al Pietrei Secuiului, deasupra Depresiunii Trascăului, la o altitudine absolută de aproximativ 810 m. Deschiderea se află la circa 270 m deasupra fundului Depresiunii Trascăului și la o diferență de nivel similară față de platoul superior al masivului, poziție care îi conferă un amplu câmp vizual asupra întregului bazin intramontan.
+
+Din punct de vedere geomorfologic, formațiunea reprezintă un portal carstic dezvoltat în calcare jurasice, modelat prin procese de dizolvare și lărgire a fisurilor structurale. Dimensiunile sale și conturul arcuat al deschiderii îi conferă un caracter monumental, fiind adesea comparată, prin proporții și expresivitate, cu portalurile arhitecturii romanice sau gotice.
+
+Prin poziția sa dominantă, grota constituie un important punct de belvedere și un obiectiv frecvent inclus în traseele de drumeție ce vizează explorarea masivului Pietrei Secuiului sau descoperirea peisajului specific Depresiunii Trascăului. De acest loc se leagă și un episod tragic petrecut în contextul Revoluției de la 1848, eveniment care a contribuit la consolidarea încărcăturii sale istorice și simbolice în memoria locală.`,
+    image: "https://muntii-nostri.ro/media/articles/dsc_4229.jpg",
+    date: "2026-02-21",
+    category: "Recomandări",
+    readingTime: 10,
+    source: "https://muntii-nostri.ro/article/circuit-de-februarie-in-piatra-secuiului/",
+    mountains: ["Munții Trascăului", "Piatra Secuiului"],
+    trail: {
+      name: "Colțești – Piatra Secuiului – Șanțul Mare – Grota Studenților – Colțești",
+      distance: "10,4 km",
+      elevation: "940 m",
+      duration: "4-6 ore",
+      difficulty: "Mediu",
+      marks: ["Cruce Albastră", "Triunghi Roșu"]
+    },
+    gallery: [
+      "https://muntii-nostri.ro/media/articles/2143/dsc_5655-1.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_5587-1a.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_2394-3.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_4228.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_0494_0.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_0353-1.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_5697-1.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_9822_0.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/img_20240507_122145-1_copy.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_4519-2.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_4906_0.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/img_20230210_132222_0.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_8593-1.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_4379.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_4323-2.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_4421-4.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_4321_0.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/01_c.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_4230.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_4245.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_4238.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_4260.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_4256_1.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_4267_0.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_4282_0.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_4283_0.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_4290.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_4310.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_4339.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_4312-1.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_4311-2.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_4324-2.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_4355-4.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_4348.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_4362_0.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_4335.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_4301.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_4315_0.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_4369_1.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_4380_2.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_9796_0.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_4387.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_4399.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_4408_0.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_4433-1.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_4445.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_4453.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_4457.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_4461.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_4466-1.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_4481.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_4488.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_4516-1.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_4529.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_4548.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_4561_0.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_7673.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_8593-1_0.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_1397.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_4536_2.jpg",
+      "https://muntii-nostri.ro/media/articles/2143/dsc_8620-2-1.jpg"
+    ]
+  },
+  {
+    id: "6",
+    slug: "spre-varful-poienita-pe-la-taul-mluhii",
+    title: "Spre Vârful Poienița pe la Tăul Mluhii",
+    summary: "Pe potecile Metaliferilor nordici: drumeție de februarie către Vârful Poienița, cu oprire la Tăul Mluhii",
+    content: `
+Drumul de apropiere: Transapuseana
+
+Accesul către această drumeție începe firesc pe una dintre cele mai spectaculoase șosele montane din Apuseni. Transapuseana nu este doar o legătură rutieră, ci o introducere treptată în peisajul și atmosfera Munților Apuseni.
+
+Șoseaua se desfășoară pe aproximativ 78 km prin Munții Apuseni, traversând Munții Trascăului și Munții Metaliferi și făcând legătura între Aiud și zona Bucium–Abrud. Pe parcurs, drumul străbate comunități pitorești precum Râmets, Ponor, Mogoș și Bucium, fiecare păstrând un farmec rural autentic.
+
+Mai mult decât un simplu drum, Transapuseana este o invitație la aventură, cultură locală și relaxare în natură, deschizând porțile către comorile mai puțin cunoscute ale Apusenilor estici. Traseul șoselei este traversat de două trasee turistice marcate importante: Magistrala Bandă Roșie a Trascăului și Traseul Cruce Albastră.
+
+Accesul spre punctul de plecare
+
+Una dintre aceste porți de acces este drumul către Mănăstirea Ponor, punctul de plecare al drumeției prezentate în acest articol.
+
+Pentru a ajunge aici, se urmează DJ 107I – Transapuseana până în localitatea Ponor. În apropierea primăriei, drumul principal se părăsește și se continuă la dreapta pe un traseu parțial asfaltat, care traversează centrul satului, trece pe lângă Mănăstirea Ortodoxă „Sfântul Spiridon" și urcă spre Mănăstirea Ortodoxă „Sfântul Nectarie".
+
+Munții Metaliferi – cadrul natural al drumeției
+
+Zona în care se desfășoară traseul aparține Munților Metaliferi, o subgrupă montană situată în partea sudică a Munților Apuseni, caracterizată prin altitudini moderate și un relief domol. Majoritatea vârfurilor ating rar 1200 m, doar câteva depășind 1300 m, iar punctul culminant al masivului este Vârful Poienița (1437 m).
+
+Relieful este dominat de forme rotunjite, dezvoltate în principal pe roci vulcanice, rezultate în urma activității magmatice desfășurate în urmă cu aproximativ 15–7 milioane de ani. Din loc în loc, această monotonie este întreruptă de apariții vulcanice spectaculoase, materializate în vârfuri stâncoase și coloane de bazalt, precum cele de la Detunata.
+
+Vârful Poienița – punctul culminant al Metaliferilor
+
+Vârful Poienița se află în nordul Munților Metaliferi, între bazinele hidrografice ale Arieșului Mijlociu și ale râului Mogoș. Sub vârf își au obârșia pâraiele Poienița și Stăuini, care se unesc la Mămăligani, formând cursul superior al Mogoșului.
+
+Poienița face parte dintr-un grup de culmi de origine vulcanică, alături de Detunata Flocoasă, Detunata Goală, Geamăna sau Vâlcoi. Deși bine împădurit, vârful beneficiază în prezent de un marcaj turistic oficial, care ușurează accesul și orientarea.
+
+Mănăstirea Ponor – începutul traseului
+
+Mănăstirea Ponor este situată în nord-estul Munților Metaliferi, la aproximativ 1230 m altitudine, pe fața estică a culmii dintre Vârful Tulburelu (1304 m) și Vârful Piatra Crisnicului (1349 m), la obârșia Văii Ponorului.
+
+Complexul mănăstiresc cuprinde: Mănăstirea Ortodoxă „Sfântul Nectarie", pentru călugări; Mănăstirea Ortodoxă „Sfântul Spiridon", pentru călugărițe, situată la altitudinea de 1020 m.
+
+Spre Tăul Mluhii – o zonă naturală aparte
+
+De la mănăstire, traseul urcă spre Tăul Mluhii, cunoscut și sub denumirile de Tăul Zânelor sau Tăul fără fund. Acesta se află în Tinovul Mluha (Tinovul Ponorului), pe un platou de aproximativ 10 ha, situat între bazinele Arieșului și Râmetsului, la altitudini de 1320–1340 m.
+
+Zona adăpostește o mlaștină oligotrofă, cu mușchi de turbă (Sphagnum, Polytrichum), specii ierboase, afin și arbori de talie mică. Deși nu este declarată rezervație naturală, aceasta constituie un habitat valoros pentru specii rare de plante și mamifere.
+
+Spre Vârful Poienița
+
+De la Tăul Mluhii, poteca continuă pe culme spre Vârful Poienița, încheind o drumeție echilibrată, care îmbină accesul facil, varietatea peisajului și liniștea specifică Munților Metaliferi.
+
+Mănăstirea Ponor – Tăul Mluhii – Vârful Poienița
+
+Date tehnice ale traseului
+
+- Distanță: 18 km (dus–întors)
+- Diferență de nivel: 540 m
+- Durată: 6–7 ore
+- Marcaj: nemarcat până la est de Vârful Poienița, apoi Cruce Roșie
+
+Descrierea traseului
+
+Traseul începe de la Mănăstirea Ortodoxă „Sfântul Spiridon" Ponor, urmează un drum pitoresc prin nordul Munților Metaliferi, cu un scurt popas la Tăul Mluhii, și se încheie pe Vârful Poienița, cel mai înalt punct al masivului. Întregul traseu oferă o experiență de neuitat prin perspectivele oferite de pe punctele de belvedere spre masivele Munților Apuseni: Munții Metaliferi, Munții Trascăului, Muntele Mare, Munții Bihor, dar și spre masivele Meridionalilor: Munții Retezat sau Munții Făgărașului.
+
+Mănăstirea Ponor – Tăul Mluhii
+
+Punctul de plecare este Mănăstirea Ortodoxă „Sfântul Spiridon" Ponor. Traseul urcă spre sud pe o potecă bine conturată, îndreptându-se inițial spre o turbină eoliană aflată pe vârful unei culmi. După ce se trece de acest reper, drumeagul continuă spre adăposturile din lemn, mergând paralel cu firul Văii Reci.
+
+În scurt timp, se ajunge pe un platou despădurit, dominat de Vârful Citera Lespedarului (1352 m). La vest de acest vârf se află mlaștina de la Tăul Mluhii. Poteca trece pe partea nordică a mlaștinii, traversând un mic izvor care se scurge din aceasta, și ajunge în zona de vest a acesteia. De aici se poate face o scurtă incursiune spre ochiurile de apă din centrul turbăriei.
+
+La sud-vest de turbărie se află un afloriment stâncos, acesta fiind un bun punct de belvedere spre împrejurimi.
+
+Tăul Mluhii – Vârful Poienița
+
+De la Tăul Mluhii, poteca urmează culmea dealului spre vest, în direcția Vârfului Poienița, al cărui „moț" este vizibil de departe. Traseul trece pe lângă Vârful Măgura (1360 m), un vârf aplatizat, și ocolește pe stânga Vârful stâncos Piatra Cioranului (1364 m), ce poate fi urcat, oferind un punct de belvedere excelent asupra împrejurimilor.
+
+Poteca continuă spre vest, ocolind pe la sud Vârful Ferigilor (1377 m), unde este amplasată o troiță, și pătrunde curând în pădure, ajungând în șaua dintre Vârful Ferigilor și Vârful Poienița. În acest loc se află câteva construcții din lemn, probabil adăposturi ale călugărilor, decorate cu icoane pe pereți.
+
+De aici, traseul urmează o spirală în jurul Vârfului Poienița: se ocolește vârful prin nord și vest, pentru ca în final să urce pe culmea sa dinspre sud. Ultima porțiune traversează o zonă abruptă, cu copaci doborâți de vânt, parțial curățată, și conduce până pe vârful stâncos al Poieniței, la 1437 m.
+
+Deși Vârful Poienița este puternic împădurit, el oferă totuși câteva priveliști spectaculoase asupra împrejurimilor: Munții Trascăului, Scărița-Belioara, Muntele Mare, Munții Bihor, Culmea Cârligate și Valea Arieșului.`,
+    image: "https://muntii-nostri.ro/media/articles/coperta_9.jpg",
+    date: "2026-02-03",
+    category: "Recomandări",
+    readingTime: 8,
+    source: "https://muntii-nostri.ro/article/spre-varful-poienita-pe-la-taul-mluhii/",
+    mountains: ["Munții Metaliferi", "Munții Apuseni"],
+    trail: {
+      name: "Mănăstirea Ponor – Tăul Mluhii – Vârful Poienița",
+      distance: "18 km",
+      elevation: "540 m",
+      duration: "6-7 ore",
+      difficulty: "Ușor-Mediu",
+      marks: ["Nemarcat", "Cruce Roșie"]
+    },
+    gallery: [
+      "https://muntii-nostri.ro/media/articles/2142/dsc_4938_1.jpg",
+      "https://muntii-nostri.ro/media/articles/2142/dsc_0797-2.jpg",
+      "https://muntii-nostri.ro/media/articles/2142/dsc_0795.jpg",
+      "https://muntii-nostri.ro/media/articles/2142/dsc_4901-1_0.jpg",
+      "https://muntii-nostri.ro/media/articles/2142/dsc_0422-2_0.jpg",
+      "https://muntii-nostri.ro/media/articles/2142/dsc_0417-1_1.jpg",
+      "https://muntii-nostri.ro/media/articles/2142/dsc_0421-2.jpg",
+      "https://muntii-nostri.ro/media/articles/2142/dsc_0469.jpg",
+      "https://muntii-nostri.ro/media/articles/2142/dsc_4232.jpg",
+      "https://muntii-nostri.ro/media/articles/2142/dsc_4222.jpg",
+      "https://muntii-nostri.ro/media/articles/2142/dsc_4267.jpg",
+      "https://muntii-nostri.ro/media/articles/2142/dsc_4241_1.jpg",
+      "https://muntii-nostri.ro/media/articles/2142/dsc_0465_0.jpg",
+      "https://muntii-nostri.ro/media/articles/2142/dsc_0463_1.jpg",
+      "https://muntii-nostri.ro/media/articles/2142/dsc_0554-2.jpg",
+      "https://muntii-nostri.ro/media/articles/2142/dsc_0577_1.jpg",
+      "https://muntii-nostri.ro/media/articles/2142/dsc_0539_0.jpg",
+      "https://muntii-nostri.ro/media/articles/2142/dsc_0516_0.jpg",
+      "https://muntii-nostri.ro/media/articles/2142/dsc_0494.jpg",
+      "https://muntii-nostri.ro/media/articles/2142/dsc_0502-1.jpg",
+      "https://muntii-nostri.ro/media/articles/2142/dsc_0780.jpg",
+      "https://muntii-nostri.ro/media/articles/2142/dsc_0470_1.jpg",
+      "https://muntii-nostri.ro/media/articles/2142/dsc_0511_0.jpg",
+      "https://muntii-nostri.ro/media/articles/2142/dsc_0528_0.jpg",
+      "https://muntii-nostri.ro/media/articles/2142/dsc_0560_0.jpg",
+      "https://muntii-nostri.ro/media/articles/2142/dsc_0525.jpg",
+      "https://muntii-nostri.ro/media/articles/2142/dsc_0472.jpg",
+      "https://muntii-nostri.ro/media/articles/2142/dsc_0473.jpg",
+      "https://muntii-nostri.ro/media/articles/2142/dsc_0610.jpg",
+      "https://muntii-nostri.ro/media/articles/2142/dsc_0476_0.jpg",
+      "https://muntii-nostri.ro/media/articles/2142/dsc_0477_1.jpg",
+      "https://muntii-nostri.ro/media/articles/2142/dsc_0484_0.jpg",
+      "https://muntii-nostri.ro/media/articles/2142/dsc_0504.jpg",
+      "https://muntii-nostri.ro/media/articles/2142/dsc_0622-1.jpg",
+      "https://muntii-nostri.ro/media/articles/2142/dsc_0624-1.jpg",
+      "https://muntii-nostri.ro/media/articles/2142/dsc_0655.jpg",
+      "https://muntii-nostri.ro/media/articles/2142/dsc_0656_0.jpg",
+      "https://muntii-nostri.ro/media/articles/2142/dsc_0660.jpg",
+      "https://muntii-nostri.ro/media/articles/2142/dsc_0663_0.jpg",
+      "https://muntii-nostri.ro/media/articles/2142/dsc_0673.jpg",
+      "https://muntii-nostri.ro/media/articles/2142/dsc_0669.jpg",
+      "https://muntii-nostri.ro/media/articles/2142/dsc_0707_0.jpg",
+      "https://muntii-nostri.ro/media/articles/2142/dsc_4407.jpg",
+      "https://muntii-nostri.ro/media/articles/2142/dsc_0694.jpg",
+      "https://muntii-nostri.ro/media/articles/2142/dsc_0696.jpg",
+      "https://muntii-nostri.ro/media/articles/2142/dsc_0702-1.jpg",
+      "https://muntii-nostri.ro/media/articles/2142/dsc_0714_0.jpg",
+      "https://muntii-nostri.ro/media/articles/2142/dsc_0436-2.jpg"
+    ]
+  },
 ]
 
 export const getLatestArticles = (count: number = 3): Article[] => {
