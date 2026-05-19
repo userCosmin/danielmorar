@@ -2,7 +2,7 @@ import { useState } from "react"
 import { useParams, Link } from "react-router-dom"
 import { Helmet } from "react-helmet-async"
 import { motion, AnimatePresence } from "framer-motion"
-import { ArrowLeft, Clock, Calendar, MapPin, ExternalLink, X, Route, Mountain, Clock3, TrendingUp } from "lucide-react"
+import { ArrowLeft, Clock, Calendar, MapPin, ExternalLink, X, Route, Mountain, Clock3, TrendingUp, Backpack, MapPinned } from "lucide-react"
 import { Header } from "../components/layout/Header"
 import { Footer } from "../components/layout/Footer"
 import { getArticleBySlug } from "../data/articles"
@@ -31,43 +31,147 @@ export function ArticlePage() {
   }
 
   const renderContent = (content: string) => {
-    const sections = content.split("## ")
+    const sections = content.split(/\n(?=[A-Z][a-z])/)
+    
     return sections.map((section, index) => {
-      if (index === 0) return null
+      const lines = section.trim().split("\n").filter(l => l.trim())
+      if (lines.length === 0) return null
       
-      const [title, ...bodyParts] = section.split("\n")
-      const body = bodyParts.join("\n")
-      
-      const paragraphs = body.split("\n\n").filter(p => p.trim())
-      
+      const title = lines[0]
+      const body = lines.slice(1).join("\n")
+
+      if (title.includes("Echipamentul necesar")) {
+        const items = body.split("\n").filter(l => l.trim())
+        return (
+          <motion.section
+            key={index}
+            initial={{ opacity: 0, y: 20 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            className="mb-12"
+          >
+            <div className="bg-charcoal text-white p-6 md:p-8 rounded-none">
+              <div className="flex items-center gap-3 mb-6">
+                <div className="p-2 bg-moss/20 rounded-lg">
+                  <Backpack className="w-6 h-6 text-moss-light" />
+                </div>
+                <h2 className="font-heading text-2xl">{title}</h2>
+              </div>
+              
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                {items.map((item, i) => (
+                  <motion.div
+                    key={i}
+                    initial={{ opacity: 0, x: -20 }}
+                    whileInView={{ opacity: 1, x: 0 }}
+                    viewport={{ once: true }}
+                    transition={{ delay: i * 0.05 }}
+                    className="flex items-start gap-3 p-3 bg-white/5 rounded-lg hover:bg-white/10 transition-colors"
+                  >
+                    <span className="w-2 h-2 bg-moss-light rounded-full mt-2 flex-shrink-0" />
+                    <span className="text-white/90 text-sm leading-relaxed">{item.trim()}</span>
+                  </motion.div>
+                ))}
+              </div>
+            </div>
+          </motion.section>
+        )
+      }
+
+      if (title.includes("Caseta tehnică")) {
+        const items = body.split("\n").filter(l => l.trim())
+        return (
+          <motion.section
+            key={index}
+            initial={{ opacity: 0, y: 20 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            className="mb-12"
+          >
+            <div className="bg-fog border-l-4 border-moss p-6 md:p-8">
+              <div className="flex items-center gap-3 mb-6">
+                <div className="p-2 bg-moss/10 rounded-lg">
+                  <MapPinned className="w-6 h-6 text-moss" />
+                </div>
+                <h2 className="font-heading text-2xl text-charcoal">{title}</h2>
+              </div>
+              
+              <div className="grid grid-cols-2 md:grid-cols-5 gap-4">
+                {items.map((item, i) => {
+                  const [label, value] = item.split(":").map(s => s.trim())
+                  return (
+                    <motion.div
+                      key={i}
+                      initial={{ opacity: 0, scale: 0.9 }}
+                      whileInView={{ opacity: 1, scale: 1 }}
+                      viewport={{ once: true }}
+                      transition={{ delay: i * 0.05 }}
+                      className="bg-white p-4 text-center"
+                    >
+                      <p className="text-xs text-stone-light uppercase tracking-wider mb-1">{label}</p>
+                      <p className="font-mono text-lg text-charcoal font-medium">{value}</p>
+                    </motion.div>
+                  )
+                })}
+              </div>
+            </div>
+          </motion.section>
+        )
+      }
+
+      if (title.includes("Descrierea")) {
+        const parts = body.split(/(?=[A-Z][a-z]+, \d+)/)
+        return (
+          <section key={index} className="mb-12">
+            <h2 className="font-heading text-2xl text-charcoal mb-6 pb-3 border-b-2 border-charcoal">{title}</h2>
+            <div className="space-y-8">
+              {parts.map((part, pIndex) => {
+                const trimmed = part.trim()
+                if (!trimmed) return null
+                
+                const match = trimmed.match(/^([A-Z][a-z]+.*?)(\d+[a-z]?h?)\s*$/)
+                if (match) {
+                  const [, subtitle, time] = match
+                  const content = trimmed.replace(/^.*?\d+[a-z]?h?\s*/, "")
+                  return (
+                    <motion.div
+                      key={pIndex}
+                      initial={{ opacity: 0, x: -20 }}
+                      whileInView={{ opacity: 1, x: 0 }}
+                      viewport={{ once: true }}
+                      className="relative pl-6 border-l-2 border-moss/30"
+                    >
+                      <div className="absolute left-0 top-0 -translate-x-1/2 w-4 h-4 bg-moss rounded-full" />
+                      <h3 className="font-heading text-lg text-charcoal mb-2">{subtitle}</h3>
+                      <span className="inline-block px-2 py-1 bg-moss/10 text-moss text-xs mb-3">{time}</span>
+                      <p className="text-charcoal/80 leading-relaxed">{content}</p>
+                    </motion.div>
+                  )
+                }
+                return (
+                  <p key={pIndex} className="text-charcoal/80 leading-relaxed">{trimmed}</p>
+                )
+              })}
+            </div>
+          </section>
+        )
+      }
+
       return (
-        <section key={index} className="mb-10">
+        <motion.section
+          key={index}
+          initial={{ opacity: 0, y: 20 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true }}
+          className="mb-10"
+        >
           <h2 className="font-heading text-2xl text-charcoal mb-4 pb-2 border-b border-fog">{title}</h2>
           <div className="space-y-4">
-            {paragraphs.map((para, pIndex) => {
-              if (para.startsWith("### ")) {
-                return (
-                  <h3 key={pIndex} className="font-heading text-xl text-charcoal mt-6 mb-3">
-                    {para.replace("### ", "")}
-                  </h3>
-                )
-              }
-              if (para.startsWith("- ")) {
-                const items = para.split("\n").filter(p => p.startsWith("- "))
-                return (
-                  <ul key={pIndex} className="list-disc list-inside space-y-2 text-charcoal/80 ml-4">
-                    {items.map((item, i) => (
-                      <li key={i}>{item.replace("- ", "")}</li>
-                    ))}
-                  </ul>
-                )
-              }
-              return (
-                <p key={pIndex} className="text-charcoal/80 leading-relaxed">{para}</p>
-              )
-            })}
+            {body.split("\n\n").filter(p => p.trim()).map((para, pIndex) => (
+              <p key={pIndex} className="text-charcoal/80 leading-relaxed">{para}</p>
+            ))}
           </div>
-        </section>
+        </motion.section>
       )
     })
   }
@@ -153,8 +257,8 @@ export function ArticlePage() {
             {article.trail && (
               <motion.div
                 initial={{ opacity: 0, y: 20 }}
-                animate={{ opacity: 1, y: 0 }}
-                transition={{ duration: 0.5, delay: 0.3 }}
+                whileInView={{ opacity: 1, y: 0 }}
+                viewport={{ once: true }}
                 className="max-w-3xl mx-auto mb-12 p-6 bg-fog rounded-none border-l-4 border-moss"
               >
                 <h3 className="font-heading text-lg text-charcoal mb-4 flex items-center gap-2">
