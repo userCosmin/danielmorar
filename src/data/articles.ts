@@ -28,17 +28,17 @@ export const articles: Article[] = [
     title: "Prin zăpezile de mai spre Vârful Custura Bucurei",
     summary: "O drumeție de final de primăvară în Munții Retezat, urcând spre Vârful Bucura prin Curmătura Bucurei, printre peisaje spectaculoase și amintiri ale Cabanei Gențiana",
     content: `
-## Memento – Cabana Gențiana
+Memento – Cabana Gențiana
 
 Un articol a cărui redactare s-a suprapus, din păcate, peste una dintre cele mai triste zile pentru iubitorii Munților Retezat: Cabana Gențiana nu mai este, a fost mistuită de flăcări în noaptea de 8 spre 9 mai. La finalul articolului i-am dedicat câteva gânduri și câteva fotografii adunate de-a lungul anilor, mici fragmente de memorie din locul care a însemnat atât de mult pentru generații de oameni ai muntelui.
 
-## Retezatul la final de primăvară
+Retezatul la final de primăvară
 
 În luna mai, Retezatul se află în plină tranziție: de la iarna cu nopți lungi și geroase, când mantia albă a zăpezii cobora până la poalele masivului, spre perioada în care zilele se lungesc vizibil, iar limita inferioară a zăpezii urcă tot mai sus, retrăgându-se treptat și rămânând, peste vară, doar în ungherele cele mai adăpostite ale circurilor glaciare.
 
 Luna mai este poate cea mai spectaculoasă pentru contrastele ei: iarnă și primăvară coexistă în același peisaj, de la câmpurile galbene de rapiță de la poalele masivului până la crestele alpine încă acoperite de zăpadă.
 
-## Vârful Bucura (2433 m)
+Vârful Bucura (2433 m)
 
 Vârful Bucura (2433 m) se află pe creasta principală a Retezatului, într-o poziție privilegiată, dominând trei mari complexe glaciare.
 
@@ -50,7 +50,7 @@ Spre sud-est se află Complexul Bucura, recunoscut pentru salba sa de lacuri gla
 
 Vârful Bucura reprezintă, de asemenea, un punct de legătură între trei vârfuri emblematice: Retezat la nord-vest, Judele la sud-vest și Peleaga la vest.
 
-## Despre siguranța traseului ales
+Despre siguranța traseului ales
 
 În condiții de risc de avalanșă, decizia de a urca pe munte este crucială. Cea mai sigură opțiune rămâne amânarea turei până la stabilizarea zăpezii; alternativ, se poate alege un traseu care minimizează expunerea - pe culmi, muchii sau pante moderate, evitând văile și culoarele de avalanșă.
 
@@ -58,7 +58,7 @@ Traseul prezentat în acest articol nu reprezintă o invitație de a parcurge zo
 
 Este bine cunoscut faptul că accesul pe creasta principală a Retezatului, în condiții de iarnă, nu este recomandat prin Curmătura Bucurei; varianta mai sigură de urcare rămâne prin Șaua Custura Bucurei.
 
-## Echipamentul necesar în astfel de ture
+Echipamentul necesar în astfel de ture
 
 - bocanci impermeabili și îmbrăcăminte tehnică în straturi: haine termice, respirabile și rezistente la vânt și umezeală
 - colțari (sau colțari ușori de tură), utili pe pantele înghețate
@@ -68,9 +68,9 @@ Este bine cunoscut faptul că accesul pe creasta principală a Retezatului, în 
 - hartă sau GPS cu traseul descărcat, pentru orientare
 - cagulă, mănuși călduroase și un termos cu băutură caldă, binevenite în condițiile de altitudine și vânt
 
-## Poiana Cârnic – Cabana Gențiana – Curmătura Bucurei – Vârful Bucura
+Poiana Cârnic – Cabana Gențiana – Curmătura Bucurei – Vârful Bucura
 
-### Caseta tehnică
+Caseta tehnică
 
 - Distanța: 19 km
 - Diferența de altitudine: 1480 m
@@ -78,9 +78,9 @@ Este bine cunoscut faptul că accesul pe creasta principală a Retezatului, în 
 - Marcaje: Bandă Albastră, Triunghi Albastru, Bandă Roșie
 - Punct de rehidratare: Cabana Gențiana
 
-### Descrierea traseului
+Descrierea traseului
 
-#### Poiana Cârnic – Curba Soacrei, 1 oră
+Poiana Cârnic – Curba Soacrei, 1 oră
 
 Traseul pornește din parcarea de la Poiana Cârnic, situată la altitudinea de cca 1040 m. Se urmează marcajul Bandă Albastră de pe pietrosul drum forestier care merge spre Cabana Pietrele. După cca 3,3 km se ajunge la bifurcația cu marcajul Triunghi Albastru, cel care duce spre Cabana Gențiana, loc cunoscut sub denumirea de „Curba Soacrei".
 
@@ -98,7 +98,7 @@ De la Cabana Gențiana vom urma în amonte marcajul Bandă Albastră, trecând p
 
 Se continuă pe poteca ce ocolește lacul pe partea estică, și urmând direcția generală spre sud, fie luând ca reper stâlpii turistici, fie având ca reper general punctul prin care se dorește urcarea în creastă, în funcție de condițiile stratului de zăpadă și a existenței cornișelor. La baza pantei care conduce spre șa este recomandată montarea colțarilor.
 
-#### Șaua Curmătura Bucurei – Vârful Bucura, 1¼h
+Șaua Curmătura Bucurei – Vârful Bucura, 1¼h
 
 Din Curmătura Bucurei, traseul își schimbă direcția spre vest, urmând îndeaproape muchia, dar evitând cornișele formate deasupra abrupturilor nordice. Din dreptul Vârfului Bucura II, direcția se orientează ușor spre sud-vest, până la atingerea cotei maxime a turei, de 2433 m, pe Vârful Bucura.
 
@@ -106,7 +106,7 @@ Vârful Bucura oferă un excelent punct de belvedere în toate direcțiile. Se d
 
 Întoarcerea se face pe același traseu sau, opțional, în funcție de experiența participanților și de buna cunoaștere a masivului, pe o altă rută.
 
-## Cabana Gențiana
+Cabana Gențiana
 
 Oare unde se duc cabanele după ce ard? Unde or fi acum vechile cabane de la Mălăiești, Omu, Ciucaș, Bâlea, Suru, Pietrele, Buta sau Gențiana? Ne place să credem că nu dispar cu adevărat, ci se retrag undeva dincolo de crestele văzute, într-un ținut tainic al munților, acolo unde ajung și oamenii care le-au iubit cândva și care au urcat spre ele ani la rând. Poate că există un loc al cabanelor pierdute, unde sobele ard din nou liniștit, ferestrele luminează în noapte, ghidând pașii turiștilor obosiți, iar mesele sunt pline de glasurile celor care au iubit muntele.
 
@@ -114,7 +114,7 @@ Cabana Gențiana, situată la circa 1670 m altitudine pe Valea Pietrele din Rete
 
 În mai 2026, Cabana Gențiana a fost distrusă complet de un incendiu, dispariția ei provocând un puternic impact emoțional în rândul iubitorilor muntelui și fiind percepută ca pierderea unuia dintre simbolurile Retezatului.
 
-## Retezatul – Muntele-școală
+Retezatul – Muntele-școală
 
 Munții Retezat sunt un adevărat munte-școală, poate mai mult decât oricare alt masiv din țară, spunând povestea ghețarilor de odinioară. Potecile lor păstrează amintirea pașilor unor mari geografi, precum Emmanuel de Martonne, cel care a descifrat aici vechile „rune" ale acestei istorii glaciare: morenele, blocurile eratice, berbecii glaciari și striurile săpate în stâncă de ghețarii dispăruți.`,
     image: "https://muntii-nostri.ro/media/articles/DSC_3897.JPG",
@@ -371,6 +371,161 @@ Parcursul dintre Valea Galda și Modolești încheie o drumeție variată, în c
       "https://muntii-nostri.ro/media/ck_uploads/68_dW62hvy.jpg",
       "https://muntii-nostri.ro/media/ck_uploads/DSC_5619.JPG",
       "https://muntii-nostri.ro/media/ck_uploads/DSC_5719_shKS3Kb.JPG"
+    ]
+  },
+  {
+    id: "4",
+    slug: "prin-zapezile-de-martie-spre-varful-custura-bucure",
+    title: "Prin zăpezile de martie spre Vârful Custura Bucurei",
+    summary: "O drumeție de început de primăvară în Munții Retezat, urcând spre Vârful Custura Bucurei prin Șaua Custura Bucurei",
+    content: `
+Retezatul la început de primăvară
+
+La început de martie, Retezatul are o liniște aparte. Zăpada acoperă aproape complet potecile, iar pădurile de molid din Valea Pietrele par adormite sub stratul alb. Deasupra Cabanei Gențiana, peisajul se deschide treptat, iar căldarea glaciară largă oferă priveliști ample spre crestele înzăpezite ale masivului.
+
+Vârful Custura Bucurei (2369 m)
+
+Vârful Custura Bucurei (2369 m) se află pe creasta principală a Retezatului, între Curmătura Bucurei și Vârful Custura. Deși nu este printre cele mai înalte vârfuri ale masivului, poziția sa oferă una dintre cele mai frumoase panorame asupra complexului glaciar Bucura.
+
+Despre siguranța traseului ales
+
+Atunci când există pericol de avalanșă, decizia de a merge sau nu pe munte devine esențială. În astfel de situații există, în general, două opțiuni: cea mai prudentă este amânarea turei până când stratul de zăpadă devine mai stabil, iar a doua presupune alegerea atentă a unui traseu care să limiteze expunerea la zonele cu risc.
+
+Traseele mai potrivite sunt, de regulă, cele care urmează culmi, muchii sau zone cu pantă moderată, evitând văile adânci, culoarele de avalanșă și versanții largi unde zăpada se poate acumula în cantități mari.
+
+Un exemplu în Munții Retezat este traseul care urcă de la Cabana Gențiana prin Șaua Custura Bucurei (Șaua de Iarnă – 2307 m) spre Vârful Custura Bucurei (2369 m). Itinerarul traversează o căldare glaciară largă, cu pantă moderată, iar sectoarele mai înclinate sunt scurte, ceea ce reduce probabilitatea declanșării unor avalanșe mari comparativ cu zonele întinse și abrupt înclinate.
+
+Chiar și pe un traseu considerat mai sigur, atenția rămâne esențială. Consultarea buletinului nivometeorologic, a dispeceratelor Salvamont, observarea urmelor de avalanșă, a zăpezii transportate de vânt sau a sunetelor de tasare sunt pași importanți, la fel ca echipamentul adecvat și experiența în evaluarea condițiilor.
+
+În concluzie, atunci când există pericol de avalanșă, alegerea unui traseu mai sigur, precum cel spre Vârful Custura Bucurei prin Șaua Custura Bucurei, poate reduce expunerea la risc. Totuși, prudența și capacitatea de a renunța la timp rămân esențiale pe munte.
+
+Despre echipamentul necesar în astfel de ture
+
+- bocanci impermeabili și îmbrăcăminte tehnică în straturi: haine termice, respirabile și rezistente la vânt și umezeală
+- colțari (sau colțari ușori de tură), utili pe pantele înghețate
+- piolet și bețe de trekking, pentru stabilitate pe terenul înzăpezit
+- parazăpezi, care împiedică pătrunderea zăpezii în bocanci
+- ochelari de soare și cremă cu protecție UV, esențiale în zilele cu reflexii puternice din zăpadă
+- hartă sau GPS cu traseul descărcat, pentru orientare
+- cagulă, mănuși călduroase și un termos cu băutură caldă, binevenite în condițiile de altitudine și vânt
+
+Poiana Cârnic – Cabana Gențiana – Șaua Custura Bucurei – Vârful Custura Bucurei
+
+Caseta tehnică
+
+- Distanța: 19,7 km
+- Diferența de altitudine: 1525 m
+- Timp: 8-10 ore
+- Marcaje: Bandă Albastră, Triunghi Albastru, Bandă Roșie
+- Punct de rehidratare: Cabana Gențiana
+
+Orientarea în zona alpină
+
+Iarna, marcajele pot fi parțial acoperite de zăpadă, mai ales în zona alpină. Orientarea devine mai ușoară urmărind direcția generală din Căldarea Pietrele spre Șaua Custura Bucurei, aproximativ spre sud-est, folosind reperele de relief și harta.
+
+Descrierea traseului
+
+Poiana Cârnic – Curba Soacrei, 1 oră
+
+Traseul pornește din parcarea de la Poiana Cârnic, situată la altitudinea de cca 1040 m. Se urmează marcajul Bandă Albastră de pe pietrosul drum forestier care merge spre Cabana Pietrele. După cca 3,3 km se ajunge la bifurcația cu marcajul Triunghi Albastru, cel care duce spre Cabana Gențiana, loc cunoscut sub denumirea de „Curba Soacrei".
+
+Curba Soacrei - Cabana Gențiana, 1 oră
+
+Se traversează spre stânga puntea peste repezișurile și bulboanele cristaline ale pârâului Stânișoara, iar după aproximativ 200 m se intersectează marcajul Triunghi Roșu (Cabana Pietrele – Lacul Galeș – Vârful Mare). După circa 25 de minute se ajunge la Cascada Maria Magdalena, aflată la aproximativ 4 km de la Poiana Cârnic (1,2 km de Cabana Gențiana).
+
+Traseul continuă pe potecă, iar după aproximativ 300 m se ajunge la intersecția cu poteca marcată cu Triunghi Galben. Aici se află un indicator turistic care arată direcția și timpul estimat până în Șaua Pelegii (2½–3 ore). Se urmează în continuare marcajul Triunghi Albastru, iar după câteva minute se reîntâlnește marcajul Bandă Albastră, împreună cu un indicator care anunță că mai sunt aproximativ 30 de minute până la Cabana Gențiana.
+
+Cabana Gențiana – Lacul Pietrele, 1 oră
+
+De la Cabana Gențiana vom urma în amonte marcajul Bandă Albastră, trecând puntea peste Valea Pietrele, pe la Bordul Tomii și în final vom face un scurt popas la Lacul Pietrele.
+
+Lacul Pietrele – Șaua Custura Bucurei, 1 oră
+
+Se continuă pe poteca ce ocolește lacul pe partea estică, urcând treptat spre Șaua de Iarnă (Șaua Custura Bucurei). La baza pantei care conduce spre șa este recomandată montarea colțarilor.
+
+Șaua Custura Bucurei – Vârful Custura Bucurei, ¼h
+
+Din Șaua Custura Bucurei, pe care montaniarzii o numesc și Șaua de Iarnă, până la punctul culminant al traseului mai sunt puțin sub 250 de metri și aproximativ 60 de metri diferență de nivel pozitivă, un segment ce poate fi parcurs în jur de 15 minute.
+
+Vârful este un deosebit punct de belvedere spre vârfurile din jur, spre Căldarea Pietrele spre Circurile complexului Bucura, dar și spre masivele mai îndepărtate: Oslea, Piule-Iorgovanu, Țarcu sau spre unele masive ale Apusenilor.
+
+Vârful Custura Bucurei - Cârnic, 3¼-4h
+
+Se reface în sens invers traseul descris la urcare.`,
+    image: "https://muntii-nostri.ro/media/articles/dsc_8888.jpg",
+    date: "2026-03-07",
+    category: "Povestiri",
+    readingTime: 12,
+    source: "https://muntii-nostri.ro/article/prin-zapezile-de-martie-spre-varful-custura-bucure/",
+    mountains: ["Munții Retzat"],
+    trail: {
+      name: "Poiana Cârnic – Cabana Gențiana – Șaua Custura Bucurei – Vârful Custura Bucurei",
+      distance: "19,7 km",
+      elevation: "1525 m",
+      duration: "8-10 ore",
+      difficulty: "Mediu-Dificil",
+      marks: ["Bandă Albastră", "Triunghi Albastru", "Bandă Roșie"]
+    },
+    gallery: [
+      "https://muntii-nostri.ro/media/articles/2144/dsc_8862_0.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_9304_0.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_1997.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_9001_0.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_1755_0.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_1503_1.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_1995_0.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/img_20220312_181411.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_1982.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_2026.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_9070.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_8786.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_9162.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_9167.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_8769.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_8781_1.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_8778_0.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_9142.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_9146.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_9149.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_9152.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_9160_1.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_9165.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_8790_1.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_9183.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_8792.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_8799_1.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_9201.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_8823.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_8835_2.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_8874_2.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_8876_1.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_8943_0.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_8923_0.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_8958.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_8967.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_8971.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_8976.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_8989.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_8995-3.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_8998.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_9017.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_9020_0.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_9021.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_9024.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_9025.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_9031.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_9036.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_9049_1.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_9048_0.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_9054_1.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_9065.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_9068.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_9096.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_9112.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_9114.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_9301.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_9129.jpg",
+      "https://muntii-nostri.ro/media/articles/2144/dsc_9138.jpg"
     ]
   }
 ]
