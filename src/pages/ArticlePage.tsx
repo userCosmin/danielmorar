@@ -33,7 +33,19 @@ export function ArticlePage() {
   const renderContent = (content: string) => {
     const sections = content.split("## ")
     return sections.map((section, index) => {
-      if (index === 0) return null
+      if (index === 0) {
+        const paragraphs = section.split("\n\n").filter(p => p.trim())
+        if (paragraphs.length === 0) return null
+        return (
+          <section key={index} className="mb-10">
+            <div className="space-y-4">
+              {paragraphs.map((para, pIndex) => (
+                <p key={pIndex} className="text-charcoal/80 leading-relaxed">{para}</p>
+              ))}
+            </div>
+          </section>
+        )
+      }
       
       const [title, ...bodyParts] = section.split("\n")
       const body = bodyParts.join("\n")
