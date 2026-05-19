@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom"
 import { motion } from "framer-motion"
 import { Clock, Calendar } from "lucide-react"
-import { Article } from "../../data/articles"
+import type { Article } from "../../data/articles"
 import { formatDate } from "../../lib/utils"
 
 interface ArticleCardProps {

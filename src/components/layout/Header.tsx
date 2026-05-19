@@ -2,7 +2,6 @@ import { useState, useEffect } from "react"
 import { Link, useLocation } from "react-router-dom"
 import { motion, AnimatePresence } from "framer-motion"
 import { Menu, X, Mountain } from "lucide-react"
-import { Button } from "../ui/Button"
 import { cn } from "../../lib/utils"
 
 const navLinks = [
