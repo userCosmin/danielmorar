@@ -213,19 +213,165 @@ Vârful Piule (2021m) oferă o panoramă extraordinară spre Munții Godeanu și
     title: "La pas spre Piatra Cetii și Cheile Întregalde",
     summary: "O drumeție peste Piatra Cetii și plaiurile carstice ale Trascăului, încheiată cu o panoramă spectaculoasă asupra Cheilor Întregalde",
     content: `
-O drumeție peste Piatra Cetii și plaiurile carstice ale Trascăului, încheiată cu o panoramă spectaculoasă asupra Cheilor Întregalde. Munții Trascăului oferă una dintre cele mai spectaculoase trasee din Apuseni.
+## Traseul Valea Galda – Piatra Cetii – Muntele Plaiului – Modolești
 
-Dimineața devreme, pornim din satul Întregalde. Prima parte a traseului urcă printr-o pădure de stejar și carpen, apoi printr-o fâșie de fag. Pe măsură ce ne apropiem de Piatra Cetii, vegetația devine mai sparță, expunând roca calcaroasă caracteristică.
+Traseul Valea Galda – Piatra Cetii – Muntele Plaiului – Modolești este unul dintre cele mai spectaculoase și solicitante parcursuri din estul Munților Trascău, combinând urcușuri susținute cu puncte de belvedere impresionante asupra Văii Galda și Cheilor Întregalde. De-a lungul celor aproape 12 kilometri, drumeția traversează culmi împădurite, platouri carstice presărate cu doline și masive calcaroase izolate, având ca punct central masivul Piatra Cetii.
 
-Piatra Cetății (1234m) este un masiv calcaros impresionant, cu pereți verticali și vârfuri ascuțite. Creasta oferă priveliști spectaculoase spre toate direcțiile. În această zi de primăvară, norii joși crează o atmosferă dramatică.
+Diferența relativ mare de nivel și porțiunile abrupte recomandă traseul drumeților deja acomodați cu efortul, răsplata fiind panorame largi, zone sălbatice bine conservate și unele dintre cele mai interesante forme carstice din Trascău.
 
-Din vârf, coborâm spre Cheile Întregalde. Aceasta este una dintre cele mai spectaculoase chei din România - o defileu de 3 km cu pereți de piatră care ating 200-300m înălțime. La final, o panoramă extraordinară răsfață privirea.`,
+## Valea Galda – Dealul Răicanilor
+
+Punctul de pornire al traseului este pe Valea Galdei, de pe DJ107K (Galda de Jos – Întregalde), la aproximativ 1 km în amonte de Pensiunea Floare de Colț, din Poiana Galdei. Altitudinea de plecare este de circa 450 m, chiar din dreptul unui izvor situat între șosea și cursul Văii Galda.
+
+Urcarea începe abrupt, pe o culme împădurită ce urcă pieptiș către Șaua Doștina (890 m), aflată pe Dealul Răicanilor. Marcajul care însoțește această culme este Banda Roșie, magistrala ce traversează Munții Trascăului pe întreaga lor lungime.
+
+Pe Dealul Răicanilor, Banda Roșie intersectează marcajul Triunghi Roșu, care va fi urmat în continuare peste Piatra Cetii, până la Modolești.
+
+## Dealul Răicanilor – Vârful Piatra Cetii
+
+Din Șaua Doștina, poteca se îndreaptă spre NV, având permanent în față pereții estici ai Pietrei Cetii. Traseul traversează terenurile unei gospodării, apoi începe un urcuș abrupt prin pădure, către Vârful Piatra Cetii.
+
+În partea finală, poteca ajunge în poiana de pe platoul superior al acestui spectaculos masiv. De pe platou poate fi vizitată intrarea în Avenul din Piatra Cetii. Atenție: avenul nu este îngrădit, iar apropierea de deschidere trebuie făcută cu prudență, pentru a evita căderea în gol.
+
+Piatra Cetii constituie un excelent punct de belvedere în toate direcțiile. De aici se deschid priveliști spre Piatra Bulzului, Piatra Craivii, Munții Cindrel, Munții Parâng, Munții Retezat, Masivul Bucegi-Vulcan, Detunata, Vârful Bihor, Muntele Mare, Munții Șureanu și Munții Făgărașului.
+
+## Vârful Piatra Cetii – Cătunul Tecșești
+
+De la intrarea în aven, poteca se îndreaptă spre marginea vestică a platoului, de unde începe o coborâre abruptă prin pădure, până într-o șa din care se deschide perspectiva asupra zonei centrale a satului Tecșești, cu Cheile Rameauțului și partea superioară a Rezervației Scărița Belioara în fundal.
+
+De aici urmează o nouă coborâre abruptă printr-o poiană, apoi continuă prin pădure, pe o pantă moderată, până la singura gospodărie din Tecșești situată la baza Pietrei Cetii.
+
+## Cătunul Tecșești – Muntele Plaiului
+
+Din dreptul gospodăriei, unde ne putem reface rezerva de apă, poteca pornește spre vest pe un drumeag de pământ. Urcă ușor în serpentine printr-o pădure tânără și ajunge la un frumos punct de belvedere situat sub Vârful Gorunu (1.120 m).
+
+Traseul ocolește apoi vârful pe versantul estic, continuă pe cel sudic și străbate un platou carstic, în mare parte despădurit, presărat cu doline, menținând direcția spre vest, către Muntele Plaiului.
+
+Chiar înainte ca poteca să pătrundă din nou în pădurea ce acoperă partea centrală a Muntelui Plaiului, se deschide un spectaculos punct de belvedere asupra Văii Galda, în apropierea Cheilor Întregalde.
+
+## Muntele Plaiului – Modolești
+
+De la punctul de belvedere, poteca traversează pădurea, mai întâi printr-o zonă cu pini, apoi printr-un amestec de foioase și fag, ieșind ulterior într-o succesiune de poieni, unde marcajul devine mai dificil de urmărit.
+
+Acest punct este situat la aproximativ 300 de metri deasupra talvegului râului Galda, la altitudinea de 870 m. De aici pot fi admirate numeroase arcade și grote de pe ambii versanți ai cheii, iar în depărtare, spre est, se disting Piatra Bulzului de la Poiana Galdei și deschiderea văii către Depresiunea Transilvaniei.
+
+După revenirea la poteca principală, traseul continuă spre vest, în direcția unei șuri. De aici începe coborârea prin zone cu vegetație arbustivă și pajiști, până la intersecția DJ107K cu drumul asfaltat Modolești – Dealul Geoagiului.
+
+## Piatra Cetii
+
+Ansamblul calcaros al Pietrei Cetii are o desfășurare aproximativ NE–SV, perpendiculară pe interfluviul principal delimitat de râurile Galda la sud și Cetea la nord. Face parte din banda estică de calcare a Trascăului, alături de Vârful Prisecii, Cheile Mănăstirii și Vârful Pleșii.
+
+Masivul este alcătuit din trei compartimente distincte:
+
+**Piatra Cetii** – sectorul nordic, cu aspect de cupolă calcaroasă și altitudinea maximă de 1.233 m. Versanții vestici și nordici sunt împăduriți, iar spre sud apar stâncării cu vegetație arbustivă; la sud de vârf se află Avenul din Piatra Cetii.
+
+**La Călugări** – creastă calcaroasă îngustă și crenelată, alcătuită din turnuri separate de strungi și hornuri. Versantul estic formează un perete abrupt de peste 150 m, iar cel vestic este parțial împădurit.
+
+**Piatra Înaltă** – un ultim turn calcaros situat în partea sudică a crestei.
+
+## Cheile Întregalde
+
+Cheile Întregalde sunt situate în estul Munților Trascău, pe valea râului Galda, în județul Alba, reprezentând unul dintre cele mai pitorești sectoare calcaroase din această unitate montană. Formate prin adâncirea cursului de apă în calcarele jurasice ale culmii Ciumerna–Bedeleu, ele prezintă un relief spectaculos, cu abrupturi, turnuri stâncoase și versanți puternic fragmentați.
+
+Diferența de nivel dintre fundul văii și culmile învecinate depășește frecvent câteva sute de metri, iar versanții adăpostesc numeroase forme carstice, precum grote, arcade naturale și stâncării ruiniforme.
+
+Substratul calcaros favorizează dezvoltarea unui relief carstic variat, cu doline și suprafețe carstificate, iar vegetația este dominată de păduri de fag și amestecuri de foioase, cu apariții de pin și pajiști xerofile. Cheile adăpostesc o floră calcicolă valoroasă, fiind cunoscute și pentru prezența florii-de-colț la altitudini neobișnuit de joase. Prin relieful abrupt și cadrul natural bine conservat, Cheile Întregalde constituie o arie de interes geomorfologic, peisagistic și botanic deosebit.
+
+## La final
+
+Parcursul dintre Valea Galda și Modolești încheie o drumeție variată, în care Piatra Cetii și Cheile Întregalde oferă reperele cele mai spectaculoase. Alternanța dintre urcușuri susținute, platouri carstice și puncte cu belvederi largi conturează un traseu reprezentativ pentru Trascăul central, unde relieful calcaros și peisajul pastoral se îmbină armonios. Deși nu este un traseu lung, diferența de nivel și porțiunile abrupte îi conferă un caracter energic, răsplătit constant de priveliști ample și de sentimentul de izolare specific culmilor mai puțin umblate.`,
     image: "https://muntii-nostri.ro/media/articles/DSC_5622.JPG",
     date: "2026-04-10",
     category: "Recomandări",
-    readingTime: 7,
+    readingTime: 12,
     source: "https://muntii-nostri.ro/article/la-pas-spre-piatra-cetii-si-cheile-intregalde/",
-    mountains: ["Munții Trascăului", "Cheile Întregalde"]
+    mountains: ["Munții Trascăului", "Cheile Întregalde"],
+    trail: {
+      name: "Valea Galda – Piatra Cetii – Muntele Plaiului – Modolești",
+      distance: "11,7 km",
+      elevation: "1.180 m",
+      duration: "6-7 ore",
+      difficulty: "Mediu-Dificil",
+      marks: ["Bandă Roșie", "Triunghi Roșu"]
+    },
+    gallery: [
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5443-1.jpg",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_4704.jpg",
+      "https://muntii-nostri.ro/media/ck_uploads/10258809_684765228226321_8953054105182230255_o.jpg",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5147.jpg",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5594.JPG",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5599.JPG",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5610.JPG",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5611.JPG",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5617.JPG",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5621.JPG",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5626.JPG",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5629.JPG",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5648.JPG",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5658.JPG",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5664.JPG",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5668.JPG",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5679.JPG",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5685_1.jpg",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5690_1.jpg",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5697.JPG",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5698.JPG",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5700.JPG",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5703.JPG",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5707_2.jpg",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5709.JPG",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5712.JPG",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5713_1.jpg",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5715.JPG",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5719.JPG",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5718.JPG",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5720.JPG",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5728.JPG",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5730.JPG",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5733.JPG",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5743.JPG",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5751.JPG",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5753.JPG",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5754.JPG",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5755.JPG",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5756.JPG",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5764_2.jpg",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5770.JPG",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5771.JPG",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5775.JPG",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5783.JPG",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5784.JPG",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5792.JPG",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5793.JPG",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5798.JPG",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5802_1.jpg",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5804.JPG",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5811.JPG",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5818.JPG",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5820.JPG",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5822_jp6I68y.JPG",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5824-2_FbLbh7P.JPG",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5827_WSie5pq.JPG",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5836_zck6ini.JPG",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5837.JPG",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5846.JPG",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5850.JPG",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5851.JPG",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5853.JPG",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5856.JPG",
+      "https://muntii-nostri.ro/media/ck_uploads/16A%23_E16prel.jpg",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5147_VOiR7wH.jpg",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_8604-1.jpg",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_0257.jpg",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_7412.jpg",
+      "https://muntii-nostri.ro/media/ck_uploads/60_vovvIuU.jpg",
+      "https://muntii-nostri.ro/media/ck_uploads/62_5akks6a.jpg",
+      "https://muntii-nostri.ro/media/ck_uploads/83_v4YEDk2.jpg",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5981_V2J22dZ.jpg",
+      "https://muntii-nostri.ro/media/ck_uploads/68_dW62hvy.jpg",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5619.JPG",
+      "https://muntii-nostri.ro/media/ck_uploads/DSC_5719_shKS3Kb.JPG"
+    ]
   }
 ]
 
